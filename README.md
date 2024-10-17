@@ -1,5 +1,5 @@
 # MSMV-SK
-This repository contains the MSMV-SK dataset proposed in our paper "Style Separation and Content Recovery for Generalizable Sketch Re-identification and A New Benchmark".<img src='img/samples.png'/>
+This repository contains the MSMV-SK dataset proposed in our paper "Style Separation and Content Recovery for Generalizable Sketch Re-identification and A New Benchmark".<img src='img/Samples.png'/>
 
 <p align="center">Fig. 1. Sample images from the proposed dataset.</p>
 
